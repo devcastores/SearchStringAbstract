@@ -1,3 +1,3 @@
-# ReadXmlDomParse
-> Ejemplos
-* ReadXML
+# SearchString
+> BuscaCoincidencias
+* SearchString
